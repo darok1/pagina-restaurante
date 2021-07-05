@@ -336,9 +336,9 @@ article section h2{
 	position: fixed;
 	margin-right: 0.5vw;
 	z-index: 2000000;
-	right: 1vw;
+	right: 2vw;
 	transition: all 0.5s;
-	bottom: 15vw;
+	bottom: 20vw;
 	width:5.5vw;
 	height:5.5vw;
 	border-radius: 0.5vw;
@@ -416,7 +416,7 @@ article section h2{
 		display: none;
 	}
 	#nav_left1{
-		left: 1vw;
+		right: 2vw;
 		width: 15vw;
 		height: 15vw;
 		bottom: 25vw;
