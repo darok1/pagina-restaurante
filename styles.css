@@ -499,7 +499,7 @@ article section h2{
 		left: 0vw;
 
 		font-size: 8vw;
-		top: 0vw;
+		top: 1vw;
 		transition: all 1s;
 		z-index: 1000;
 	}
