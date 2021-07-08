@@ -464,7 +464,7 @@ article section h2{
 	}
 
 	#nav__menu1 span{
-		border: 2px solid blue;
+		
 		position: relative;
 		color: #fff;
 		top: 0.5vw;
@@ -492,7 +492,7 @@ article section h2{
 	}
 	#icono_redes{
 		width: 100vw;
-		border: 2px solid red;
+		
 		margin-right:  10vw;
 		color: #fff;
 		position: absolute;
