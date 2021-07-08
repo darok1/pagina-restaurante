@@ -386,7 +386,7 @@ article section h2{
 		right: 1vw;
 		width: 0;
 		height: 0vw;
-		z-index: 1000;
+		z-index: 5000;
 	}
 	#nav_menu_mobile a{
 		text-decoration: none;
